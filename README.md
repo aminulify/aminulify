@@ -10,10 +10,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="center">
-<a href="https://linkedin.com/in/aminulify" target="blank"><img align="center" src="https://i.ibb.co.com/g41h3RG/linkedin.png" alt="aminulify" height="30" /></a>
-<a href="https://dribbble.com/aminulify" target="blank"><img align="center" src="https://i.ibb.co.com/6FRhwJt/dribble.png" alt="aminulify" height="30" /></a>
-<a href="https://fb.com/aminulify" target="blank"><img align="center" src="https://i.ibb.co.com/1QnpW7B/facebook.png" alt="aminulify" height="30" /></a>
-<a href="https://api.whatsapp.com/send/?phone=8801686621361&text&type=phone_number&app_absent=0" target="blank"><img align="center" src="https://i.ibb.co.com/QJvrCBd/whatsapp.png" alt="aminulify" height="30" /></a>
+<a href="https://linkedin.com/in/aminulify" target="blank"><img align="center" src="https://i.ibb.co.com/g41h3RG/linkedin.png" alt="aminulify"  /></a>
+<a href="https://dribbble.com/aminulify" target="blank"><img align="center" src="https://i.ibb.co.com/6FRhwJt/dribble.png" alt="aminulify" /></a>
+<a href="https://fb.com/aminulify" target="blank"><img align="center" src="https://i.ibb.co.com/1QnpW7B/facebook.png" alt="aminulify" /></a>
+<a href="https://api.whatsapp.com/send/?phone=8801686621361&text&type=phone_number&app_absent=0" target="blank"><img align="center" src="https://i.ibb.co.com/QJvrCBd/whatsapp.png" alt="aminulify" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

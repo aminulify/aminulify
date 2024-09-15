@@ -8,8 +8,8 @@
 - 🚀 Website [https://aminulify.com/](https://aminulify.com/)
 - 📫 How to reach me **aminulify@gmail.com**
 
-<h3 align="left" display="flex" gap="5px">Connect with me:</h3>
-<p align="center">
+<h3 align="left">Connect with me:</h3>
+<p align="center" display="flex" gap="10px">
 <a href="https://linkedin.com/in/aminulify" target="blank"><img align="center" src="https://i.ibb.co.com/g41h3RG/linkedin.png" alt="aminulify" height="35" /></a>
 <a href="https://dribbble.com/aminulify" target="blank"><img align="center" src="https://i.ibb.co.com/6FRhwJt/dribble.png" alt="aminulify" height="35" /></a>
 <a href="https://fb.com/aminulify" target="blank"><img align="center" src="https://i.ibb.co.com/1QnpW7B/facebook.png" alt="aminulify" height="35" /></a>

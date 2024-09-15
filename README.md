@@ -17,7 +17,8 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-[![MasterHead](https://i.ibb.co.com/JBrhRNG/languages-icon.png)]
+<a href="https://www.aminulify.com" target="blank"><img align="center" src="https://i.ibb.co.com/JBrhRNG/languages-icon.png" alt="aminulify" height="60" /></a>
+
 
 ###
 

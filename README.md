@@ -1,4 +1,4 @@
-[![MasterHead](https://media.licdn.com/dms/image/v2/D5616AQENXDGGHLoU4A/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1718690068148?e=1732147200&v=beta&t=A_A9VPobXJ64As4zBOzc87gAUqofiwuEdCCmj2zspDo)](https://www.aminulify.com)
+[![MasterHead](https://i.ibb.co.com/688QZc4/linkedin-profile.jpg)](https://www.aminulify.com)
 <h1 align="center">Hi 👋, I'm Aminul</h1>
 <h3 align="left">Connect with me:</h3>
 <p align="left">I from Bangladesh. I am studying on B.Sc of Computer Science and Engineering Department in National University. I am a freelancer. I have running more than four years client handeling experience. I am very smiling person and I am very flexible person. I'm a good leaner and undertand quickly new technologies capability. Now I want to grow my career with designing and programming. 🚀 Passionate about crafting robust and scalable web applications.</p>

@@ -17,7 +17,9 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<a href="https://www.aminulify.com" target="blank"><img align="center" src="https://i.ibb.co.com/JBrhRNG/languages-icon.png" alt="aminulify" height="60" /></a>
+<p align="center">
+<a href="https://www.aminulify.com" target="blank"><img align="center" src="https://i.ibb.co.com/JBrhRNG/languages-icon.png" alt="aminulify" /></a>
+</p>
 
 
 ###

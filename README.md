@@ -10,10 +10,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="center">
-<a href="https://linkedin.com/in/aminulify" target="blank"><img align="center" src="https://i.ibb.co.com/g41h3RG/linkedin.png" alt="aminulify" height="20" /></a>
-<a href="https://dribbble.com/aminulify" target="blank"><img align="center" src="https://i.ibb.co.com/6FRhwJt/dribble.png" alt="aminulify" height="20" /></a>
-<a href="https://fb.com/aminulify" target="blank"><img align="center" src="https://i.ibb.co.com/1QnpW7B/facebook.png" alt="aminulify" height="20" /></a>
-<a href="https://wa:me/+8801686621361" target="blank"><img align="center" src="https://i.ibb.co.com/QJvrCBd/whatsapp.png" alt="aminulify" height="20" /></a>
+<a href="https://linkedin.com/in/aminulify" target="blank"><img align="center" src="https://i.ibb.co.com/g41h3RG/linkedin.png" alt="aminulify" height="30" /></a>
+<a href="https://dribbble.com/aminulify" target="blank"><img align="center" src="https://i.ibb.co.com/6FRhwJt/dribble.png" alt="aminulify" height="30" /></a>
+<a href="https://fb.com/aminulify" target="blank"><img align="center" src="https://i.ibb.co.com/1QnpW7B/facebook.png" alt="aminulify" height="30" /></a>
+<a href="https://wa:me/+8801686621361" target="blank"><img align="center" src="https://i.ibb.co.com/QJvrCBd/whatsapp.png" alt="aminulify" height="30" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

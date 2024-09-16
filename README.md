@@ -1,5 +1,5 @@
 [![MasterHead](https://i.ibb.co.com/688QZc4/linkedin-profile.jpg)](https://www.aminulify.com)
-<h1 align="center">Hi 👋, I'm Aminul</h1>
+<h1 align="center">Hi👋, I'm Aminul</h1>
 <h3 align="left">About Me:</h3>
 <p align="left">I'm from Bangladesh. I'm studying on B.Sc of Computer Science and Engineering Department in National University. I'm a freelancer. I've running more than four years client handeling experience. I'm very smiling person and I'm very flexible person. I'm a good leaner and undertand quickly new technologies capability. Now I want to grow my career with designing and programming. 🚀 Passionate about crafting robust and scalable web applications.</p>
 

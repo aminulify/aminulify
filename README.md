@@ -1,4 +1,4 @@
-[![MasterHead]([https://i.ibb.co.com/m00pBrH/linkedin-profile.jpg](https://i.ibb.co.com/m00pBrH/linkedin-profile.jpg))]
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=aminulify&label=Profile%20views&color=0e75b6&style=flat" alt="aminulify" /> </p>
 <h1 align="center">Hi👋, I'm Aminul</h1>
 <h3 align="left">About Me:</h3>
 <p align="left">I’m Md. Aminul Islam, a 25-years-old B.Sc. student in Computer Science and Engineering at National University. With over 4 years of freelance experience in client management, I’m known for my adaptability, quick learning, and positive attitude. I’m passionate about programming and eager to advance my career in the tech industry.</p>

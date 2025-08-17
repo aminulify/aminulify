@@ -5,7 +5,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=aminulify&label=Profile%20views&color=0e75b6&style=flat" alt="aminulify" /> </p>
 
-- 🚀 Website [https://aminulify.com/](https://aminulify.com/)
+- 🚀 Portfolio <a href="https://bento.me/aminulify"/>Click Here</a>
 - 📫 How to reach me **aminulify@gmail.com**
 
 <h3 align="left">Connect with me:</h3>

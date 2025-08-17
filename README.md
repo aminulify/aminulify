@@ -1,4 +1,4 @@
-<a href="https://linkedin.com/in/aminulify" target="blank"><img align="center" src="profile.jpg" alt="aminulify" /></a>
+<a href="https://linkedin.com/in/aminulify" target="blank"><img align="center" src="Profile.jpg" alt="aminulify" /></a>
 <h1 align="center">Hi👋, I'm Aminul</h1>
 <h3 align="left">About Me:</h3>
 <p align="left">Frontend-focused Full Stack Developer with over 3 years of experience in designing, developing, and deploying modern, responsive web applications. Proven ability to deliver production-ready solutions for international clients and to collaborate effectively in remote, cross-functional teams. Expertise in GSAP, React, Next.js, Node.js, and a strong foundation in UI/UX design.</p>

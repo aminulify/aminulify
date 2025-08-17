@@ -1,7 +1,7 @@
 <a href="https://linkedin.com/in/aminulify" target="blank"><img align="center" src="profile.jpg" alt="aminulify" /></a>
 <h1 align="center">Hi👋, I'm Aminul</h1>
 <h3 align="left">About Me:</h3>
-<p align="left">I’m Md. Aminul Islam, a 25-years-old B.Sc. student in Computer Science and Engineering at National University. With over 4 years of freelance experience in client management, I’m known for my adaptability, quick learning, and positive attitude. I’m passionate about programming and eager to advance my career in the tech industry.</p>
+<p align="left">Frontend-focused Full Stack Developer with over 3 years of experience in designing, developing, and deploying modern, responsive web applications. Proven ability to deliver production-ready solutions for international clients and to collaborate effectively in remote, cross-functional teams. Expertise in GSAP, React, Next.js, Node.js, and a strong foundation in UI/UX design.</p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=aminulify&label=Profile%20views&color=0e75b6&style=flat" alt="aminulify" /> </p>
 
